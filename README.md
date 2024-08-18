@@ -16,7 +16,7 @@ This does not touch or modify the game client itself, it's really just a launche
 
 Running into a problem or need help with something? [Check out the Wiki](https://github.com/pizzaboxer/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/pizzaboxer/bloxstrap/issues) or report it in our [Discord server](https://discord.gg/nKjV3mGq6R).
  
-Bloxstrap is only supported for PCs running Windows.
+Bloxstrap is only supported for PCs running Windows. Soonly probablly will also supported other OS if possibility when I have time to make compatible about it.
  
  ## Installing
 Download the [latest release of Bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
